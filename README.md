@@ -6,4 +6,4 @@ Run wordfinder.go and enter a word to search for
 
 Example:
 
-!(example)[example.png]
+![example](example.png)
